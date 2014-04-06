@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="desktop-libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/desktop/libs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../libgdx/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libgdx/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libgdx/gdx-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../libgdx/gdx-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/desktop/libs" recursive="false" />
+  </library>
+</component>
