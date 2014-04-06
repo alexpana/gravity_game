@@ -1,4 +1,4 @@
-package com.example.libgdx.skeleton;
+package org.vertexarmy.gravity.android;
 
 import android.os.Bundle;
 import com.badlogic.gdx.backends.android.AndroidApplication;
